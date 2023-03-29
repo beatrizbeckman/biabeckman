@@ -4,18 +4,29 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://beatriz.beckman03@gmail.com)
 [![Gmail](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@beatrizbeckman#0117)
 
-![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=biabeckman&show_icons=true&theme=radical)
+<br><div align="left">
+  <a href="https://github.com/biabeckman">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=radical&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Linguagens em aprendizado 📚
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<div align="center" valign="top"><br>
+    <img align="left" alt="Python" height="60" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+     <img align="left" alt="JAVA" height="60" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="left" alt="C" height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="left" alt="html" height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img align="left" alt="CSS" height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    
+         
+
+   
 </div>
 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biabeckman&layout=compact)]()
+
+
 
 
 

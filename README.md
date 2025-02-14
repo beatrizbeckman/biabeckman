@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://beatriz.beckman03@gmail.com)
 [![Gmail](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@beatrizbeckman#0117)
 
+- I'm Ana Beatriz Beckman Falcão, a computer student. I'm studying different languages ​​to expand my knowledge in graduation 🎓
 
 
 ## Linguagens em aprendizado 📚
